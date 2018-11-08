@@ -39,7 +39,8 @@ public class Program
 	Okrag obj5=new Okrag(4,new Punkt(6,5));
 	System.out.println(obj3 + "\n" + obj4 + "\nOkregi sie przecinaja? " + obj3.przecina(obj4));
 	System.out.println(obj3 + "\n" + obj4 + "\nOkregi sie przecinaja? " + obj3.przecina(obj5));
-   }                                          
+   	System.out.println(obj2.przecina(new Prostokat(10,10,new Punkt(10,10))));
+   }
 }
 
 
@@ -60,70 +61,69 @@ class Punkt
 		this.y=y+dy;
 	}
 
-	public String toString() 
+	public String toString()
 	{
 		return "[x: "+x+", y: "+y+"]";
 	}
-	
+
 
 }
 
 
-class Prostokat
-{
-   double dlugosc;
-   double szerokosc;
-   Punkt wierzcholek;
+class Prostokat {
+	double dlugosc;
+	double szerokosc;
+	Punkt wierzcholek;
 	boolean zawiera;
- 
-   Prostokat(double dlugosc,double szerokosc) 
-   {                                          
-      this.dlugosc=dlugosc;                   
-      this.szerokosc=szerokosc;               
-      this.wierzcholek=new Punkt(0,0);      
-   }
- 
-   Prostokat(double dlugosc,double szerokosc, Punkt wierzcholek) 
-   {                                                             
-      this.dlugosc=dlugosc;                                      
-      this.szerokosc=szerokosc;                                  
-      this.wierzcholek=wierzcholek;                              
-   }                                                             
- 
-   public String toString()                                                   
-   {                                                                          
-      return "[dl: "+dlugosc+", sz: "+szerokosc+"]" + wierzcholek.toString(); 
-   }                                                                          
- 
-   double pole()                
-   {                            
-      return dlugosc*szerokosc; 
-   }   
-	double obwod()
-	{
-		return 2*dlugosc + 2*szerokosc;
-	}       
 
-	void przesun(double u, double v)
-	{
+	Prostokat(double dlugosc, double szerokosc) {
+		this.dlugosc = dlugosc;
+		this.szerokosc = szerokosc;
+		this.wierzcholek = new Punkt(0, 0);
+	}
+
+	Prostokat(double dlugosc, double szerokosc, Punkt wierzcholek) {
+		this.dlugosc = dlugosc;
+		this.szerokosc = szerokosc;
+		this.wierzcholek = wierzcholek;
+	}
+
+	public String toString() {
+		return "[dl: " + dlugosc + ", sz: " + szerokosc + "]" + wierzcholek.toString();
+	}
+
+	double pole() {
+		return dlugosc * szerokosc;
+	}
+
+	double obwod() {
+		return 2 * dlugosc + 2 * szerokosc;
+	}
+
+	void przesun(double u, double v) {
 		this.wierzcholek.przesun(u, v);
 	}
-/** Method checking if square contains a point. */
-	public boolean zawiera(Punkt obj){
-   		if (obj.x >= Prostokat.this.wierzcholek.x && obj.x <= Prostokat.this.wierzcholek.x + Prostokat.this.szerokosc &&
-				obj.y >= Prostokat.this.wierzcholek.y && obj.y <= Prostokat.this.wierzcholek.y + Prostokat.this.dlugosc){
-   			return true;
-		}
-		else {
+
+	/**
+	 * Method checking if square contains a point.
+	 */
+	public boolean zawiera(Punkt obj) {
+		if (obj.x >= Prostokat.this.wierzcholek.x && obj.x <= Prostokat.this.wierzcholek.x + Prostokat.this.szerokosc &&
+				obj.y >= Prostokat.this.wierzcholek.y && obj.y <= Prostokat.this.wierzcholek.y + Prostokat.this.dlugosc) {
+			return true;
+		} else {
 			return false;
 		}
 	}
-
-//	public boolean przecina(Okrag obj){
-//
-//	}
+	public boolean przecina(Prostokat prostokat){
+		if (prostokat.wierzcholek.x <= this.wierzcholek.x + szerokosc && prostokat.wierzcholek.y <= this.wierzcholek.y + dlugosc){
+			return true;
+		}
+		else{
+			return false;
+		}
+	}
 }
-
 
 class Okrag
 {
