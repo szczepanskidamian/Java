@@ -1,5 +1,4 @@
-package dziedziczenie;
-
+package dziedziczenie.cw1;
 import java.awt.*;
 
 public class Program

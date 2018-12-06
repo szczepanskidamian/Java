@@ -1,5 +1,6 @@
-package dziedziczenie;
+package dziedziczenie.cw1;
 import java.awt.*;
+
 
 class Prostokat extends Rectangle
 {
