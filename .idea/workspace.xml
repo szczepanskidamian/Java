@@ -2,13 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0adbebf-dc70-43b3-905e-bc007ea76ad5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cw2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/cw2/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zestaw3/AssertTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/Prostokat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/Prostokat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/liczby/LiczbaZespolona.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/liczby/LiczbaZespolona.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/liczby/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/liczby/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/liczby/Ulamek.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/liczby/Ulamek.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/liczby/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/liczby/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/liczby/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/liczby/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/liczby/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/liczby/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/docs/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/program/Program.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/program/Program.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/program/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/program/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/program/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/program/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/program/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/program/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/biblioteki/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/biblioteki/AssertTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/biblioteki/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/biblioteki/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/biblioteki/Punkt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/biblioteki/plik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw1/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw2/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw2/Okrag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw2/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw2/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw2/Trojkat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw3/Dokument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw3/DowodOsobisty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw3/Osoba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw3/Paszport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/dziedziczenie/cw3/Przeszukiwalne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/komunikator/cw1/Klient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/komunikator/cw1/Serwer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/komunikator/cw2/Klient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/komunikator/cw2/Odbior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/komunikator/cw2/Serwer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/liczby/BigLiczba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/liczby/LiczbaZespolona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/liczby/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/liczby/Ulamek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/liczby/Wektor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/liczby/WielomianKwadratowy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/program/Okrag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/program/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/program/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/program/Punkt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uczonko/serwerhttp/SerwerHTTP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biblioteki/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw3/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biblioteki/AssertTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biblioteki/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw3/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biblioteki/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw3/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biblioteki/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw3/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/biblioteki/plik.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw3/plik.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw1/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw1/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw2/Figura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw2/Figura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw2/Okrag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw2/Okrag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw2/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw2/Prostokat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw2/Prostokat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw2/Trojkat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw2/Trojkat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw3/Dokument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw3/Dokument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw3/DowodOsobisty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw3/DowodOsobisty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw3/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw3/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw3/Paszport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw3/Paszport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw3/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw3/Przeszukiwalne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw3/Przeszukiwalne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Dokument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Dokument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/DowodOsobisty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/DowodOsobisty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Konto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Konto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/KontoNowoczesne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/KontoNowoczesne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/KontoStudenckie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/KontoStudenckie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Oprocentowanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Oprocentowanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Paszport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Paszport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Podatek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Podatek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dziedziczenie/cw4/Przeszukiwalne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw4/cw4/Przeszukiwalne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/komunikator/cw1/Klient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw5/cw1/Klient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/komunikator/cw1/Serwer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw5/cw1/Serwer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/komunikator/cw2/Klient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/komunikator/cw2/Odbior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/komunikator/cw2/Serwer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/BigLiczba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/BigLiczba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/LiczbaZespolona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/LiczbaZespolona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/Ulamek.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/Ulamek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/Ulamek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/Ulamek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/Wektor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/Wektor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liczby/WielomianKwadratowy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw2/WielomianKwadratowy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program/Okrag.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw1/Okrag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw1/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/program/Prostokat.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw1/Prostokat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serwerhttp/SerwerHTTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zestaw6/cw1/SerwerHTTP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uczonko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/uczonko.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,62 +127,26 @@
       <FILTER>komunikator.cw2.*</FILTER>
     </SUITE>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1739264280">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.26" value="4" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="2" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.43" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="7" />
-          <entry key="java" value="159" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="159" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="class" value="2" />
-          <entry key="dummy" value="8" />
-          <entry key="java" value="10911" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="10911" />
-          <entry key="PLAIN_TEXT" value="8" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/komunikator/cw2/Serwer.java">
+        <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Serwer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="119">
+              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#185#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Klient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,22 +155,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/komunikator/cw2/Odbior.java">
+        <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Klient2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/komunikator/cw2/Klient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="204">
+              <caret line="12" column="22" selection-end-line="71" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,10 +167,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/serwerhttp/SerwerHTTP.java">
+        <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Klient3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+            <state relative-caret-position="536">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,9 +195,31 @@
       <find>inter</find>
       <find>intersect</find>
       <find>intersects</find>
+      <find>b3</find>
+      <find>b4</find>
+      <find>OdbiorS</find>
+      <find>win</find>
+      <find>cegielki</find>
+      <find>hol</find>
+      <find>jte</find>
+      <find>enab</find>
+      <find>System</find>
+      <find>bro</find>
+      <find>Kalk</find>
+      <find>bufor</find>
+      <find>sqrt</find>
+      <find>perc</find>
+      <find>brow</find>
+      <find>try</find>
+      <find>text</find>
+      <find>UNDO</find>
+      <find>undo</find>
     </findStrings>
     <replaceStrings>
       <replace>int</replace>
+      <replace>rowna_sie</replace>
+      <replace>Odbior</replace>
+      <replace>bricks</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -152,64 +228,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/biblioteki/AssertTests.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/Figura.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/Okrag.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/Prostokat.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/Trojkat.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/Program.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw3/Przeszukiwalne.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw3/Dokument.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw1/Program.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw2/Program.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw2/Prostokat.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw1/Prostokat.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw3/Osoba.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw3/DowodOsobisty.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw3/Paszport.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/WielomianKwadratowy.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/Punkt.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/RownanieKwadratowe.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Przeszukiwalne.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Program.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw3/Program.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Dokument.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/DowodOsobisty.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Konto.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/KontoNowoczesne.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/KontoStudenckie.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Main.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Oprocentowanie.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Osoba.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Paszport.java" />
-        <option value="$PROJECT_DIR$/src/dziedziczenie/cw4/Podatek.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/Prostokat.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/Program.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/Figura.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie3/Prostokat.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie3/Okrag.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie3/Trojkat.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie3/Program.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie2/Prostokat.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie2/Program.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie1/RownanieKwadratowe.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie1/WielomianKwadratowy.java" />
-        <option value="$PROJECT_DIR$/src/kolokwium/zadanie1/Program.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/Klient.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/cw1/Klient.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/Serwer.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/cw1/Serwer.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/cw2/Odbior.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/cw2/Klient.java" />
-        <option value="$PROJECT_DIR$/src/komunikator/cw2/Serwer.java" />
-        <option value="$PROJECT_DIR$/src/serwerhttp/SerwerHTTP.java" />
+        <option value="$PROJECT_DIR$/src/program/Program.java" />
+        <option value="$PROJECT_DIR$/src/zestaw1/Program.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Dokument.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Oprocentowanie.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Osoba.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Paszport.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Podatek.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Przeszukiwalne.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Main.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/KontoStudenckie.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/KontoNowoczesne.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Konto.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/DowodOsobisty.java" />
+        <option value="$PROJECT_DIR$/src/zestaw8/Program.java" />
+        <option value="$PROJECT_DIR$/src/zestaw3/AssertTests.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw3/Program.java" />
+        <option value="$PROJECT_DIR$/src/zestaw4/cw4/Program.java" />
+        <option value="$PROJECT_DIR$/src/zestaw6/plik.txt" />
+        <option value="$PROJECT_DIR$/bufor.txt" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw2/Odbior.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw2/KlientOdbior.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw2/SerwerOdbior.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw2/Klient.java" />
+        <option value="$PROJECT_DIR$/bufor.html" />
+        <option value="$PROJECT_DIR$/bufor.htm" />
+        <option value="$PROJECT_DIR$/src/zestaw6/SerwerHTTP.java" />
+        <option value="$PROJECT_DIR$/src/zestaw6/cw2/ObslugaZadania.java" />
+        <option value="$PROJECT_DIR$/src/zestaw6/cw2/SerwerHTTP.java" />
+        <option value="$PROJECT_DIR$/src/zestaw8/TexturedText.java" />
+        <option value="$PROJECT_DIR$/src/zestaw8/Plansza.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Belka.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Program.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/SilnikKulki.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Cegielka.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Plansza.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Kulka.java" />
+        <option value="$PROJECT_DIR$/src/zestaw6/cw1/SerwerHTTP.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw1/Serwer.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/BallEngine.java" />
+        <option value="$PROJECT_DIR$/src/zestaw7/cw2/rejestr.txt" />
+        <option value="$PROJECT_DIR$/src/zestaw5/kek/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/kek/Server.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw3/ObslugaZadania.java" />
+        <option value="$PROJECT_DIR$/src/zestaw7/cw2/Kalk.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw1/Klient.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Board.java" />
+        <option value="$PROJECT_DIR$/src/zestaw9/cw1/Ball.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw3/Klient.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw3/Klient2.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw3/Serwer.java" />
+        <option value="$PROJECT_DIR$/src/zestaw5/cw3/Klient3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -219,8 +295,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,6 +309,40 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="uczonko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zestaw5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uczonko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zestaw5" type="462c0819:PsiDirectoryNode" />
+              <item name="cw3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uczonko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zestaw5" type="462c0819:PsiDirectoryNode" />
+              <item name="cw3" type="462c0819:PsiDirectoryNode" />
+              <item name="Serwer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="uczonko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zestaw9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uczonko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zestaw9" type="462c0819:PsiDirectoryNode" />
+              <item name="cw1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,22 +350,28 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543487969284" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.12.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548354984354" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projekty\Java\src\kolokwium\zadanie3" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Uczelnia\Java" />
+      <recent name="C:\Uczelnia\Java\src\zestaw8" />
+      <recent name="C:\Projekty\Java\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zestaw5.cw3" />
       <recent name="biblioteki" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projekty\Java\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Uczelnia\Java\src\zestaw5\cw2" />
+      <recent name="C:\Uczelnia\Java\src\zestaw8" />
+      <recent name="C:\Projekty\Java\src\kolokwium\zadanie3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,26 +386,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SerwerHTTP">
-    <configuration name="Klient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="komunikator.cw2.Klient" />
-      <module name="uczonko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="komunikator.cw2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Klient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="komunikator.cw1.Klient" />
+      <option name="MAIN_CLASS_NAME" value="zestaw5.cw3.Klient" />
       <module name="uczonko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="komunikator.cw1.*" />
+          <option name="PATTERN" value="zestaw5.cw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +400,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Serwer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="komunikator.cw2.Serwer" />
+    <configuration name="Klient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zestaw5.cw3.Klient2" />
       <module name="uczonko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="komunikator.cw2.*" />
+          <option name="PATTERN" value="zestaw5.cw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Klient3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zestaw5.cw3.Klient3" />
+      <module name="uczonko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zestaw5.cw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zestaw9.cw1.Program" />
+      <module name="uczonko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zestaw9.cw1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,24 +440,11 @@
       </method>
     </configuration>
     <configuration name="Serwer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="komunikator.cw1.Serwer" />
+      <option name="MAIN_CLASS_NAME" value="zestaw5.cw3.Serwer" />
       <module name="uczonko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="komunikator.cw1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SerwerHTTP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serwerhttp.SerwerHTTP" />
-      <module name="uczonko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="serwerhttp.*" />
+          <option name="PATTERN" value="zestaw5.cw3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,17 +453,17 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Program" />
       <item itemvalue="Application.Serwer" />
       <item itemvalue="Application.Klient" />
-      <item itemvalue="Application.Serwer (1)" />
-      <item itemvalue="Application.Klient (1)" />
-      <item itemvalue="Application.SerwerHTTP" />
+      <item itemvalue="Application.Klient2" />
+      <item itemvalue="Application.Klient3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SerwerHTTP" />
-        <item itemvalue="Application.Klient (1)" />
-        <item itemvalue="Application.Serwer (1)" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Klient3" />
+        <item itemvalue="Application.Klient2" />
         <item itemvalue="Application.Klient" />
         <item itemvalue="Application.Serwer" />
       </list>
@@ -370,6 +486,9 @@
     <history-entry file="AssertTests - 2018.11.07 at 22h 23m 20s.xml">
       <configuration name="AssertTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AssertTests - 2019.01.05 at 10h 48m 12s.xml">
+      <configuration name="AssertTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,9 +500,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="760" y="0" width="783" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2884882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2780083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -391,16 +510,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32711622" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33954155" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4972299" weight="0.22571428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23654391" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855093" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28936172" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.16170213" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49861497" weight="0.32664755" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277007" side_tool="true" weight="0.24320458" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.1529745" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49861497" weight="0.28366762" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49786323" weight="0.24965326" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -410,9 +529,10 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50213677" side_tool="true" weight="0.24965326" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13154362" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29403606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,16 +540,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32855093" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33954155" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4972299" visible="true" weight="0.24212034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855093" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28936172" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49861497" weight="0.32719547" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49861497" weight="0.28653294" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50277007" side_tool="true" weight="0.24320458" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3248227" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.1529745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49786323" weight="0.24965326" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,375 +559,399 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50213677" side_tool="true" weight="0.24965326" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/awt/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw3/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5355">
-          <caret line="367" column="62" selection-start-line="367" selection-start-column="57" selection-end-line="367" selection-end-column="62" />
+        <state relative-caret-position="306">
+          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/awt/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Konto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw2/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/KontoNowoczesne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#1291#1292#0" expanded="true" />
+            <element signature="e#1336#1337#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw2/Trojkat.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/KontoStudenckie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="-94">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw2/Okrag.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw3/Osoba.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Oprocentowanie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw3/Przeszukiwalne.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Osoba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Paszport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-end-line="28" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Podatek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Przeszukiwalne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw3/Dokument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw2/Prostokat.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/DowodOsobisty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="28" selection-end-line="28" />
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw3/DowodOsobisty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw3/Paszport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/liczby/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/program/Prostokat.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/biblioteki/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/biblioteki/Prostokat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw1/Prostokat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Przeszukiwalne.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Dokument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-end-line="6" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw3/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw4/cw4/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="493">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw6/plik.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/DataOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-end-line="37" />
+        <state relative-caret-position="161">
+          <caret line="275" selection-start-line="275" selection-end-line="275" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw1/Program.java">
+    <entry file="file://$PROJECT_DIR$/bufor.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/KontoNowoczesne.java">
+    <entry file="file://$PROJECT_DIR$/bufor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="15" selection-end-line="46" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/KontoStudenckie.java">
+    <entry file="file://$PROJECT_DIR$/bufor.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-end-line="46" />
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Main.java">
+    <entry file="file://$PROJECT_DIR$/water.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw8/TexturedText.java" />
+    <entry file="file://$PROJECT_DIR$/src/zestaw8/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" selection-end-line="28" />
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Oprocentowanie.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw8/Plansza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" selection-end-line="7" />
+        <state relative-caret-position="238">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Paszport.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/awt/EventDispatchThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-end-line="28" />
+        <state relative-caret-position="161">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Dokument.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/awt/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" selection-end-line="6" />
+        <state relative-caret-position="167">
+          <caret line="5625" column="29" selection-start-line="5625" selection-start-column="29" selection-end-line="5625" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Osoba.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="167">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/DowodOsobisty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Podatek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw4/Konto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/awt/geom/Rectangle2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="675" column="11" selection-start-line="675" selection-start-column="11" selection-end-line="675" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/cw2/Figura.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/liczby/WielomianKwadratowy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="44" selection-start-line="2" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie1/RownanieKwadratowe.java" />
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie1/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie1/WielomianKwadratowy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie2/Punkt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie2/Prostokat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie2/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw6/cw2/ObslugaZadania.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie3/Figura.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw6/cw2/SerwerHTTP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie3/Okrag.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw1/Serwer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="37" selection-start-line="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/javax/swing/JButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/kek/ClientHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/kek/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/ObslugaZadania.java" />
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw1/Klient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw6/cw1/SerwerHTTP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plik.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw2/Serwer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw2/Klient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw7/cw2/Kalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="198" column="17" lean-forward="true" selection-start-line="198" selection-start-column="17" selection-end-line="198" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw2/Odbior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw9/cw1/BallEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw9/cw1/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw9/cw1/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="152" column="13" lean-forward="true" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw9/cw1/Brick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw9/cw1/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="50" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw7/cw2/rejestr.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw9/cw1/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1104" column="19" selection-end-line="3168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Serwer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Klient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Klient2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie3/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie3/Prostokat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kolokwium/zadanie3/Trojkat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/komunikator/cw1/Serwer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="12" column="22" selection-end-line="71" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/komunikator/cw1/Klient.java">
+    <entry file="file://$PROJECT_DIR$/src/zestaw5/cw3/Klient3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="58" column="25" selection-start-line="14" selection-start-column="12" selection-end-line="58" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/komunikator/cw2/Serwer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/komunikator/cw2/Odbior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/komunikator/cw2/Klient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serwerhttp/SerwerHTTP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        <state relative-caret-position="536">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -879,7 +1023,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hamcrest-core-1.3</last-edited>
+          <last-edited>hamcrest-core-2.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
